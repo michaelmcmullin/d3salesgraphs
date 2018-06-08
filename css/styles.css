@@ -1,0 +1,61 @@
+.popover { color: #212529; }
+
+.svg-bg-gray-base { fill: #000; }
+
+.svg-bg-gray-base:hover { fill: #000; }
+
+.svg-bg-gray-darker { fill: #212529; }
+
+.svg-bg-gray-darker:hover { fill: #343a40; }
+
+.svg-bg-gray-dark { fill: #495057; }
+
+.svg-bg-gray-dark:hover { fill: #343a40; }
+
+.svg-bg-gray { fill: #6c757d; }
+
+.svg-bg-gray:hover { fill: #495057; }
+
+.svg-bg-gray-light { fill: #dee2e6; }
+
+.svg-bg-gray-light:hover { fill: #ced4da; }
+
+.svg-bg-gray-lighter { fill: #e9ecef; }
+
+.svg-bg-gray-lighter:hover { fill: #dee2e6; }
+
+.svg-bg-primary { fill: #007bff; }
+
+.svg-bg-primary:hover { fill: #0062cc; }
+
+.svg-bg-success { fill: #28a745; }
+
+.svg-bg-success:hover { fill: #1e7e34; }
+
+.svg-bg-info { fill: #17a2b8; }
+
+.svg-bg-info:hover { fill: #117a8b; }
+
+.svg-bg-warning { fill: #ffc107; }
+
+.svg-bg-warning:hover { fill: #d39e00; }
+
+.svg-bg-danger { fill: #dc3545; }
+
+.svg-bg-danger:hover { fill: #bd2130; }
+
+.svg-barchart text { fill: black; font: 10px sans-serif; text-anchor: end; }
+
+.svg-barchart .axis text { font: 10px sans-serif; }
+
+.svg-barchart .axis path, .svg-barchart .axis line { fill: none; stroke: #000; shape-rendering: crispEdges; }
+
+.svg-barchart .line-primary { stroke: #007bff; fill: none; stroke-width: 2px; }
+
+.svg-barchart .line-success { stroke: #28a745; fill: none; stroke-width: 2px; }
+
+.svg-barchart .line-info { stroke: #17a2b8; fill: none; stroke-width: 2px; }
+
+.svg-barchart .line-warning { stroke: #ffc107; fill: none; stroke-width: 2px; }
+
+.svg-barchart .line-danger { stroke: #dc3545; fill: none; stroke-width: 2px; }
